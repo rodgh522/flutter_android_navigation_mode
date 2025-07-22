@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android_navigation_mode_example">
+    package="com.flutter_android_navigation_mode_example">
    <application
-        android:label="android_navigation_mode_example"
+        android:label="flutter_android_navigation_mode_example"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

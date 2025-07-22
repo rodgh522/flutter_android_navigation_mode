@@ -1,4 +1,4 @@
-name: android_navigation_mode_example
+name: example
 description: Demonstrates how to use the android_navigation_mode plugin.
 
 # The following line prevents the package from being accidentally published to
@@ -6,13 +6,14 @@ description: Demonstrates how to use the android_navigation_mode plugin.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=3.0.3 <4.0.0'
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  android_navigation_mode:
+  flutter_android_navigation_mode:
     # When depending on this package from a real application you should use:
     #   android_navigation_mode: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

@@ -1,4 +1,4 @@
-group 'com.example.android_navigation_mode'
+group 'com.flutter_android_navigation_mode'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -45,7 +45,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 33
         if (project.android.hasProperty('namespace')) {
-            namespace 'com.example.android_navigation_mode'
+            namespace 'com.flutter_android_navigation_mode'
         }
     }
 

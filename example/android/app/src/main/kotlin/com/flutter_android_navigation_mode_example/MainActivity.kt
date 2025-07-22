@@ -1,4 +1,4 @@
-package com.example.android_navigation_mode_example
+package com.flutter_android_navigation_mode_example
 
 import io.flutter.embedding.android.FlutterActivity
 

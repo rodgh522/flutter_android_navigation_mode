@@ -27,8 +27,8 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.android_navigation_mode
-        pluginClass: AndroidNavigationModePlugin
+        package: com.flutter_android_navigation_mode
+        pluginClass: FlutterAndroidNavigationModePlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

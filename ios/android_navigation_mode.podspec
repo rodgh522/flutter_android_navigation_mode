@@ -1,15 +1,15 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint android_navigation_mode.podspec` to validate before publishing.
+# Run `pod lib lint flutter_android_navigation_mode.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'android_navigation_mode'
+  s.name             = 'flutter_android_navigation_mode'
   s.version          = '0.0.1'
-  s.summary          = 'A new Flutter project.'
+  s.summary          = 'Obtain Android System Navigation UI mode.'
   s.description      = <<-DESC
-A new Flutter project.
+Obtain Android System Navigation UI mode.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://github.com/rodgh522/flutter_android_navigation_mode'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }
